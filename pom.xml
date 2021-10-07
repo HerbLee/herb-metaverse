@@ -13,6 +13,7 @@
         <module>herb-metaverse-nacos-client</module>
         <module>herb-metaverse-admin</module>
         <module>herb-metaverse-user</module>
+        <module>herb-metaverse-gateway</module>
     </modules>
     <packaging>pom</packaging>
 
