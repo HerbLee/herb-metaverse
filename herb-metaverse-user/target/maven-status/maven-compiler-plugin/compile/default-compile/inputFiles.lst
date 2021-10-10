@@ -1,0 +1,8 @@
+/home/herb/code/herb-metaverse/herb-metaverse-user/src/main/java/com/herbmeta/constant/AuthorityConstant.java
+/home/herb/code/herb-metaverse/herb-metaverse-user/src/main/java/com/herbmeta/config/MakeMybatis.java
+/home/herb/code/herb-metaverse/herb-metaverse-user/src/main/java/com/herbmeta/UserCenterApplication.java
+/home/herb/code/herb-metaverse/herb-metaverse-user/src/main/java/com/herbmeta/controller/MetaTestUserController.java
+/home/herb/code/herb-metaverse/herb-metaverse-user/src/main/java/com/herbmeta/dto/MetaTestUserMapper.java
+/home/herb/code/herb-metaverse/herb-metaverse-user/src/main/java/com/herbmeta/entity/MetaTestUser.java
+/home/herb/code/herb-metaverse/herb-metaverse-user/src/main/java/com/herbmeta/service/impl/MetaTestUserServiceImpl.java
+/home/herb/code/herb-metaverse/herb-metaverse-user/src/main/java/com/herbmeta/service/IMetaTestUserService.java
